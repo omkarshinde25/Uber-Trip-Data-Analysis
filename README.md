@@ -3,6 +3,10 @@
 > **Project summary:** Interactive Power BI solution analyzing 103,728 Uber trips (one main Trip Details table) with a Location table (256 rows), a Calendar table (30 rows) and a Dynamic Measure table. This repository/dashboard demonstrates data modelling (star schema), DAX measures, KPIs, time & location analysis, and a 3‑page report (Overview, Time Analysis, Details Analysis).
 
 ---
+### Overview page
+
+<img src="https://github.com/omkarshinde25/Uber-Trip-Analysis/blob/main/Dashboards/Uber%20Trip%20Analysis%20Overview.png" width="800"> <br>
+
 
 ## Table of contents
 
@@ -41,10 +45,6 @@ Audience: product/operations analysts, city managers, BI reviewers.
 
 Dashboard images (embedded below for quick preview):
 
-### Overview page
-
-<img src="https://github.com/omkarshinde25/Uber-Trip-Analysis/blob/main/Dashboards/Uber%20Trip%20Analysis%20Overview.png" width="800"> <br>
-
 
 ### Time Analysis page
 
@@ -57,7 +57,7 @@ Dashboard images (embedded below for quick preview):
 
 ---
 
-## 3. Data model (star schema)
+## 3. Data model (Star Schema)
 
 <img src="https://github.com/omkarshinde25/Uber-Trip-Analysis/blob/main/Dashboards/Uber%20Trip%20Analysis%20Star%20Schema.png" width="800"> <br>
 

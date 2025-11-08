@@ -97,7 +97,7 @@ Dashboard images (embedded below for quick preview):
 
 ---
 
-## 5. DAX measures (copy‑paste ready)
+## 5. DAX measures 
 
 ### Dynamic Measure (table code)
 
@@ -137,7 +137,7 @@ RETURN
 CONCATENATE(FORMAT(AvgTrip, "0"), " Min")
 ```
 
-### Location / text measures
+### Location measures
 
 ```dax
 -- Most frequent Dropoff point (uses inactive relationship)

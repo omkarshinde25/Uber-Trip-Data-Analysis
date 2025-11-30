@@ -1,4 +1,4 @@
-# UBER Trip Analysis — README
+# UBER Trip Analysis - using SQL & Power BI
 
 > **Project summary:** Interactive Power BI solution analyzing 103,728 Uber trips (one main Trip Details table) with a Location table (256 rows), a Calendar table (30 rows) and a Dynamic Measure table. This repository/dashboard demonstrates data modelling (star schema), DAX measures, KPIs, time & location analysis, and a 3‑page report (Overview, Time Analysis, Details Analysis).
 
